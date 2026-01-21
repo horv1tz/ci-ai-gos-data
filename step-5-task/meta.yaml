@@ -1,0 +1,10 @@
+id: task_fewshot
+type: task
+title: "Практика: Обучение примерами"
+time_estimate_min: 6
+illustration: puzzle
+mascot_quip: "Покажи мне пару примеров, и я все схвачу на лету!"
+task_prompt: "Напишите промпт с примерами (Few-Shot)."
+evaluation_criteria: "Ответ должен содержать слово 'Пример' или структуру 'Вход: ... Выход: ...'. Пользователь должен показать модели паттерн сокращения текста."
+next_step: step-6-theory
+

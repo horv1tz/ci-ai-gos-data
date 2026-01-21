@@ -1,0 +1,10 @@
+id: task_cot
+type: task
+title: "Практика: Сложная логика"
+time_estimate_min: 8
+illustration: detective
+mascot_quip: "Я люблю сложные задачки. Но не забудь попросить меня подумать!"
+task_prompt: "Используйте фразу 'шаг за шагом' или нумерованный план действий."
+evaluation_criteria: "Промпт обязан содержать фразу 'шаг за шагом', 'поэтапно' или 'step by step'. Должна быть просьба аргументировать вывод."
+next_step: step-8-theory
+

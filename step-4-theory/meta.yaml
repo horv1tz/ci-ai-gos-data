@@ -1,0 +1,8 @@
+id: theory_fewshot
+type: theory
+title: "Модуль 2. Техника Few-Shot"
+time_estimate_min: 5
+illustration: puzzle
+mascot_quip: "Лучше один раз увидеть пример, чем сто раз прочитать инструкцию."
+next_step: step-5-task
+

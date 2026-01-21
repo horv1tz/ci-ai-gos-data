@@ -1,0 +1,8 @@
+id: theory_cot
+type: theory
+title: "Chain of Thought: Думай по шагам"
+time_estimate_min: 6
+illustration: detective
+mascot_quip: "Тише едешь — дальше будешь. Дай мне время подумать."
+next_step: step-7-task
+

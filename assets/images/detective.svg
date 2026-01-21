@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(15,15)">
+    <!-- Magnifying Glass -->
+    <circle cx="40" cy="40" r="25" fill="#E8FEEB" stroke="#50B848" stroke-width="3"/>
+    <path d="M58 58 L 80 80" stroke="#0E100F" stroke-width="6" stroke-linecap="round"/>
+    <!-- Eye inside -->
+    <path d="M25 40 Q 40 25 55 40 Q 40 55 25 40 Z" fill="white" stroke="#50B848" stroke-width="2"/>
+    <circle cx="40" cy="40" r="6" fill="#50B848"/>
+  </g>
+</svg>
+

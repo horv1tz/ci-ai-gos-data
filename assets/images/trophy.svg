@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(20,15)">
+    <path d="M20 10 H 60 L 55 50 C 55 60, 45 65, 40 65 C 35 65, 25 60, 25 50 L 20 10 Z" fill="#F9E300" stroke="#50B848" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 20 C 10 20, 10 40, 20 40" fill="none" stroke="#50B848" stroke-width="3" stroke-linecap="round"/>
+    <path d="M60 20 C 70 20, 70 40, 60 40" fill="none" stroke="#50B848" stroke-width="3" stroke-linecap="round"/>
+    <path d="M30 65 L 30 75 L 20 85 H 60 L 50 75 L 50 65" fill="none" stroke="#50B848" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Star -->
+    <path d="M40 30 L 42 35 L 47 35 L 43 38 L 45 43 L 40 40 L 35 43 L 37 38 L 33 35 L 38 35 Z" fill="white" stroke="none"/>
+  </g>
+</svg>
+

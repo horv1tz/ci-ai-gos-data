@@ -1,0 +1,8 @@
+id: quiz
+type: test
+title: "Финальный тест"
+time_estimate_min: 5
+illustration: trophy
+mascot_quip: "Финишная прямая! Покажи, чему научился."
+next_step: step-11-result
+

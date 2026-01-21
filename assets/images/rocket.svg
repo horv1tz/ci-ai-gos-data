@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(10,10)">
+    <!-- Rocket Body -->
+    <path d="M40 10 C 40 10, 60 30, 60 60 L 20 60 C 20 30, 40 10, 40 10 Z" fill="#E8FEEB" stroke="#50B848" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Window -->
+    <circle cx="40" cy="35" r="8" fill="white" stroke="#50B848" stroke-width="3"/>
+    <!-- Fins -->
+    <path d="M20 60 L 10 80 L 30 60" fill="none" stroke="#50B848" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 60 L 70 80 L 50 60" fill="none" stroke="#50B848" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Flames -->
+    <path d="M30 65 Q 40 90 50 65" fill="none" stroke="#F9E300" stroke-width="3" stroke-linecap="round"/>
+    <!-- Stars -->
+    <circle cx="10" cy="20" r="2" fill="#50B848"/>
+    <circle cx="70" cy="15" r="3" fill="#50B848"/>
+  </g>
+</svg>
+

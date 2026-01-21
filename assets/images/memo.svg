@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(20,10)">
+    <!-- Paper -->
+    <rect x="10" y="5" width="60" height="80" rx="5" fill="white" stroke="#50B848" stroke-width="3" stroke-linecap="round"/>
+    <!-- Lines -->
+    <line x1="25" y1="25" x2="55" y2="25" stroke="#50B848" stroke-width="3" stroke-linecap="round" opacity="0.3"/>
+    <line x1="25" y1="40" x2="55" y2="40" stroke="#50B848" stroke-width="3" stroke-linecap="round" opacity="0.3"/>
+    <line x1="25" y1="55" x2="45" y2="55" stroke="#50B848" stroke-width="3" stroke-linecap="round" opacity="0.3"/>
+    <!-- Pencil -->
+    <path d="M50 70 L 75 95 L 80 90 L 55 65 Z" fill="#E8FEEB" stroke="#50B848" stroke-width="2"/>
+    <path d="M50 70 L 55 65" fill="none" stroke="#50B848" stroke-width="2"/>
+  </g>
+</svg>
+

@@ -1,0 +1,10 @@
+id: task_anonymization
+type: task
+title: "Практика: Обезличивание"
+time_estimate_min: 5
+illustration: shield
+mascot_quip: "Преврати Иванова Ивана в Агента 007. Ну, или просто в 'Заявителя'."
+task_prompt: "Что вы измените в тексте?"
+evaluation_criteria: "Ответ должен содержать действия по удалению ФИО, адреса и телефона. Замена на [ФИО], [Адрес] или 'Заявитель'."
+next_step: step-10-test
+
