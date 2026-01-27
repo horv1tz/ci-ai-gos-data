@@ -247,3 +247,5 @@ cat > step-12-theory/content.md << 'EOF'
 Текст теории...
 EOF
 ```
+
+
